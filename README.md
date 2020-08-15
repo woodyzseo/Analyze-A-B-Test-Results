@@ -5,7 +5,7 @@ The coding environment is Python(Pandas, Numpy). The data is contained in 'count
 ## How to run this project
 You can download the ipynb to run it with Jupyter Notebook(don't forget to download csv sheet as well) or view as a HTML.
 This project is organized with 3 parts.<br>
-Part I - Probability<br>
+**Part I - Probability<br>
 Part II - A/B Test<br>
-Part III - Regression<br>
+Part III - Regression**<br>
 In each part I manipulated the given data to answer the given questions.
